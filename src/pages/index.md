@@ -23,7 +23,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    image: /images/about-5.jpg
   - type: grid_section
     title: sponsors
     subtitle: Grid Section Example
