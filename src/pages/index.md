@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: sponsors
     subtitle: Grid Section Example
     grid_items:
       - type: grid_item
